@@ -1,8 +1,6 @@
+  ![Vizard]("https://i.gifer.com/3b0H.gif")
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/32512/screenshots/4787574/light_ai_design_by_gleb.gif" width="150px"></img>
-  
-   [![Vizard](https://cdn.dribbble.com/users/32512/screenshots/4787574/light_ai_design_by_gleb.gif")
-  
+
  # CNN VISUALIZATION TOOL
  
  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
@@ -13,15 +11,15 @@
 
 
 --------
->  One of the most debated topics in deep learning is how to interpret and understand a trained model – particularly in the context of high-risk industries like healthcare. The term “black box” has often been associated with deep learning algorithms. How can we trust the results of a model if we can’t explain how it works? Take the example of a deep learning model trained for detecting cancerous tumors. The model tells you that it is 99% sure that it has detected cancer – but it does not tell you why or how it made that decision. Did it find an important clue in the MRI scan? Or was it just a smudge on the scan that was incorrectly detected as a tumor? This is a matter of life and death for the patient and doctors cannot afford to be wrong. 
+>  One of the most debated topics in deep learning is how to interpret and understand a trained model â€“ particularly in the context of high-risk industries like healthcare. The term â€œblack boxâ€ has often been associated with deep learning algorithms. How can we trust the results of a model if we canâ€™t explain how it works? Take the example of a deep learning model trained for detecting cancerous tumors. The model tells you that it is 99% sure that it has detected cancer â€“ but it does not tell you why or how it made that decision. Did it find an important clue in the MRI scan? Or was it just a smudge on the scan that was incorrectly detected as a tumor? This is a matter of life and death for the patient and doctors cannot afford to be wrong. 
 
-> As we have seen in the cancerous tumor example, it is crucial that we know what our model is doing – and how it’s making decisions on its predictions.
+> As we have seen in the cancerous tumor example, it is crucial that we know what our model is doing â€“ and how itâ€™s making decisions on its predictions.
 Typically, the reasons listed below are the most important points for a deep learning practitioner to remember:
 - Understanding how the model works 
 - Assistance in Hyperparameter tuning 
 - Finding out the failures of the model and getting an intuition of why they fail 
 - Explaining the decisions to a consumer / end-user or a business executive
-> Neural nets are black boxes. In the recent years, several approaches for understanding and visualizing Convolutional Networks have been developed in literature. The purpose of the project is to design a Visualization Tool for Keras to visualize and debug what CNN’s are learning and to show heatmaps for a large variety of models like Resnet50, InceptionV3, Vgg16, MobileNet, etc.
+> Neural nets are black boxes. In the recent years, several approaches for understanding and visualizing Convolutional Networks have been developed in literature. The purpose of the project is to design a Visualization Tool for Keras to visualize and debug what CNNâ€™s are learning and to show heatmaps for a large variety of models like Resnet50, InceptionV3, Vgg16, MobileNet, etc.
 
 
 -----------------------------------------------
