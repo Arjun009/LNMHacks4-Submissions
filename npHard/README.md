@@ -34,11 +34,11 @@ Typically, the reasons listed below are the most important points for a deep lea
 - ![](Images/pca2d.PNG)
 - ![](Images/pca3d.PNG)
 - ![](Images/tsne3d.PNG)
-- ![](Images/Screenshot (54).png)
-- ![](Images/Screenshot (55).png)
-- ![](Images/Screenshot (56).png)
-- ![](Images/Screenshot (57).png)
-- ![](Images/Screenshot (58).png)
+- ![](Images/Screenshot%20(54).png)
+- ![](Images/Screenshot%20(55).png)
+- ![](Images/Screenshot%20(56).png)
+- ![](Images/Screenshot%20(57).png)
+- ![](Images/Screenshot%20(58).png)
 -----------------------------------------------
   
 ## Features
